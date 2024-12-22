@@ -24,11 +24,11 @@ During my [Master's thesis](/_publications/pdf_master_thesis.pdf), I worked on a
 
 I studied Mathematics at the University of Pisa, Italy (Bachelor's degree and Master's degree) and I was part of Scuola Normale Superiore there.
 
-In 2024, I studied cryptography at the MPRI master in Paris, and I was part of the [GRACE](https://inria.fr/en/grace) team, where I worked on my master's thesis under the supervision of [Benjamin Smith](https://www.lix.polytechnique.fr/~smith/).
+In 2024, I studied cryptography at the [MPRI](https://wikimpri.dptinfo.ens-cachan.fr/doku.php) master in Paris, and I was part of the [GRACE](https://inria.fr/en/grace) team, where I worked on my master's thesis under the supervision of [Benjamin Smith](https://www.lix.polytechnique.fr/~smith/) and [Davide Lombardo](https://people.dm.unipi.it/lombardo/).
 
 ## How to find me
 
-You can usually find in my office in Garching (Munich) - [CIT 02.12.36](https://nav.tum.de/room/5612.02.036#18/48.262395/11.667446)
+You can usually find in my office in Garching (Munich) - [CIT 02.12.036](https://nav.tum.de/room/5612.02.036#18/48.262395/11.667446)
 
-Otherwise, you can contact me at ```alessandro dot sferlazza at tum dot de```. I'm happy to chat about maths or [something else](/misc/)
+Otherwise, you can contact me at ```alessandro dot sferlazza at tum dot de```. I'm happy to chat about maths or [something else](/misc/).
 
