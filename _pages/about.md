@@ -11,12 +11,12 @@ Ciao, I'm Alessandro! This is (going to be) my website, where I share my researc
 
 I like algebra and cryptography, as well as [other stuff](/misc/).
 
-I am a first-year PhD student in **isogeny-based cryptography** under the supervision of [Lorenz Panny](https://yx7.cc/), within the Algebra research group at the Techinical University of Munich.
+I am a first-year PhD student in **isogeny-based cryptography** under the supervision of [Lorenz Panny](https://yx7.cc/), within the Algebra research group at the Technical University of Munich.
 
 ## My research interests
 
 - **Algorithmic number theory.** I am passionate about algebra and its connections to algorithms, number theory, and geometry.<br>
-During my [Master's thesis](/_publications/pdf_master_thesis.pdf), I worked on abelian varieties, and studied algorithms to compute their group laws, isogenies, pairings.
+During my [Master's thesis](/files/pdf_master_thesis.pdf), I worked on abelian varieties, and studied algorithms to compute their group laws, isogenies, pairings.
 - **Post-quantum cryptography.** My research currently focuses on the practical speed-up of certain protocols in isogeny-based cryptography - a branch of post-quantum cryptography based on the properties of isogeny graphs of elliptic curves - in particular via the use of isogenies between higher-dimensional abelian varieties.<br>
   As relevant side-interests I'd like to delve more into, I'd list cryptanalysis of isogeny-based protocols, and code-based cryptography.
 
