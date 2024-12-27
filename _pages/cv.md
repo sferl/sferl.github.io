@@ -30,7 +30,7 @@ Education -- maths
   Université Paris-Saclay, Paris, France.
   :   Post-quantum cryptography, provable security
 - **2022 -- 2024: MSc in Mathematics**<br> University of Pisa.
-  :   [Master's thesis](/publications/master-thesis) on isogenies of abelian varieties, supervised by Benjamin Smith and Davide Lombardo.
+  :   [Master's thesis](/research/master-thesis) on isogenies of abelian varieties, supervised by Benjamin Smith and Davide Lombardo.
 - **2019 -- 2023: BSc in Mathematics**<br>University of Pisa.
   :   [Bachelor's thesis](/files/pdf_bachelor_thesis.pdf) on the model theory of restricted real analytic functions, supervised by Alessandro Berarducci.
 - **2019 -- 2024: Undergraduate 5-year course in Mathematics**<br> [Scuola Normale Superiore](https://www.sns.it/en/la-normale-si-presenta), Pisa, Italy.
