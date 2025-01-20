@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem update bundler
+
 group :jekyll_plugins do
   gem 'jekyll'
   gem 'jekyll-feed'
@@ -8,7 +10,5 @@ group :jekyll_plugins do
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
 end
-
-ruby "3.3.22"
 
 gem 'github-pages'
