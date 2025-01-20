@@ -9,4 +9,6 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
 end
 
+ruby file: 3.3.22
+
 gem 'github-pages'
