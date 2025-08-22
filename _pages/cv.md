@@ -48,17 +48,21 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-None for now. Stay tuned.
 
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-cv.html  %}
   {% endfor %}</ul>
-None, for now. Stay tuned.
   
 Attended events
 =====
+- **July 2025** Séminaire C2. Inria, Paris, France
+- **May 2025** Isogeny Club Brainstorm Days, affiliated with Eurocrypt 2025. Madrid, Spain
+- **April 2025** SQIparty workshop. University of LLeida, Spain
+- **March 2025** Swissogeny Day. IBM Research, Zurich, Switzerland
+- **March 2025** Young Researcher Crypto Seminar (YRCS). University of Konstanz, Germany
+- **January 2025** Séminaire C2. Loria, Nancy, France
 - **September 2024** Isogeny Days. KU Leuven, Belgium
 - **May 2024** Isogeny Club Brainstorm Days, affiliated with Eurocrypt 2024. Zurich, Switzerland
 - **April 2024** CAIPI Symposium. Rennes, France

@@ -2,11 +2,14 @@
 title: "Master's thesis: Abelian varieties in the Theta model and applications to cryptography"
 collection: research
 category: theses
-permalink: /research/master-thesis
-excerpt: 'Arithmetic on abelian varieties via the use of algebraic theta functions. Algorithms describing the group law, $(2,\dots,2)$-isogenies, pairings. Application of these algorithms on SQIsign2D verification'
+# permalink: /research/master-thesis
+excerpt: 'Arithmetic on abelian varieties via the use of algebraic theta functions. Algorithms describing the group law, $(2,\dots,2)$-isogenies, pairings. Application of these algorithms on SQIsign2D verification.'
 # venue:  'University of Pisa'
-slidesurl: 'http://sferl.github.io/files/slides_master_thesis.pdf'
-pdfurl: 'http://sferl.github.io/files/pdf_master_thesis.pdf'
+when: 2024
+date: 2024-09-27
+urls:
+    slides: 'http://sferl.github.io/files/slides_master_thesis.pdf'
+    pdf: 'http://sferl.github.io/files/pdf_master_thesis.pdf'
 ---
 This is the final thesis submitted in view of my Master's degree in Mathematics at the University of Pisa.
 

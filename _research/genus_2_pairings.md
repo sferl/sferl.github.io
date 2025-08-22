@@ -2,9 +2,10 @@
 title: "theta-pairings-dim2"
 collection: research
 category: code
-permalink: /research/genus-2-pairings
-excerpt: 'Implementation of pairings on genus-2 Jacobians using theta coordinates and biextensions'
-codeurl: https://github.com/sferl/theta-pairings-dim2
+# permalink: /research/genus-2-pairings
+excerpt: 'SageMath implementation of pairings on genus-2 Jacobians using cubical arithmetic on theta coordinates'
+urls:
+    code: 'https://github.com/sferl/theta-pairings-dim2'
 # venue:  'University of Pisa'
 ---
 <!-- # citation: 'Alessandro Sferlazza, University of Pisa, September 2024. Supervisors: Benjamin Smith, Davide Lombardo' -->
