@@ -36,6 +36,9 @@
             {% if post.subtitle %}
                 <p style="margin-block: 0em; padding-block: 0em; font-size: .7; font-weight: lighter;"> {{ post.subtitle }}</p>
             {% endif %}
+            {% if post.collection == 'talks' %}
+              <p style="margin-block: 0em; padding-block: 0em; font-size: .7; font-weight: lighter;"> {{ post.venue }} </p>
+            {% endif %}
         </summary>
         <p>
             {{ post.excerpt | markdownify }}
