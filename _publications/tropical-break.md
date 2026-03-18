@@ -1,5 +1,5 @@
 ---
-title: "Hensel-lifting black-box algorithms and fast trace computation for elliptic-curve endomorphisms"
+title: "Breaking digital signatures from tropical matrix semirings"
 subtitle: "Alessandro Sferlazza"
 collection: publications
 category: manuscripts
